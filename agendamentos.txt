@@ -1,0 +1,2 @@
+2026-11-20 17:38:03 | Cliente: Marcelo | Dia: sexta | Horário: 08h | Serviço: Revisão geral
+2026-11-20 17:54:26 | Cliente: Marcelo | Dia: segunda | Horário: 15h | Serviço: Revisão geral
