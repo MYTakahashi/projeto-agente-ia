@@ -69,7 +69,7 @@ README.md
 
 O vídeo explicativo detalhando o desenvolvimento desta aplicação está disponível no link abaixo:
 <p align="center">
-    <a href="https://drive.google.com/file/d/18oSvRLT7pvU-CKVm_ydiwOxx-MMuLE3-/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/14iqSqZmZlHnIJBvEKbuG8t0Zd8mU_vJ2/view?usp=drive_link" target="_blank">
     <img src="agenda-3d.webp" width="100">
     </a>
     <br>

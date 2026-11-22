@@ -1,2 +1,5 @@
 2026-11-20 17:38:03 | Cliente: Marcelo | Dia: sexta | Horário: 08h | Serviço: Revisão geral
 2026-11-20 17:54:26 | Cliente: Marcelo | Dia: segunda | Horário: 15h | Serviço: Revisão geral
+2026-11-22 14:00:58 | Cliente: Marcelo | Dia: segunda | Horário: 09h | Serviço: Revisão de freios
+2026-11-22 14:03:48 | Cliente: Marcelo | Dia: quarta | Horário: 16h | Serviço: Troca de óleo e filtros
+2026-11-22 15:23:12 | Cliente: Marcelo | Dia: quarta | Horário: 15h | Serviço: Revisão de freios
